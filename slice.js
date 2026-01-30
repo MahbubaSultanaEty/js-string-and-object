@@ -21,3 +21,4 @@ const realFrndArr = ["riya", "ayesha", "tanzina"];
 console.log(realFrndArr.join());
 console.log(realFrndArr.join(" "));
 console.log(realFrndArr.join("|"));
+
