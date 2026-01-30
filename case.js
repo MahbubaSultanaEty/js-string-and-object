@@ -52,7 +52,7 @@ if (drink2 === liquid2) {
     console.log('Be a Bhebla Kanto');
 }
 // direct use 
-if (drink.trim === liquid.trim) {
+if (drink.trim() === liquid.trim()) {
     console.log("ami parina r parina");
 } else {
     console.log('ami keno morina...');
